@@ -28,13 +28,13 @@ BSc Cybersecurity (Hons)       NUS CTO Programme
 
 **At work** — I lead architecture and delivery for FX Options eTrading platforms (VOLT, Velocity Options), designing high-throughput systems with FIX protocol integrations, real-time market data, and automated pricing engines. Previously held architecture and engineering leadership roles at Schroders, Barclays Capital, and Ayondo/TradeHero.
 
-**After hours** — I build and maintain open-source developer tools under the **Civyk** brand:
+**After hours** — I build and maintain open-source developer tools under the **[Civyk](https://github.com/civyk-official)** brand:
 
 | Project | Description |
 |---|---|
-| [**WinWright**](https://github.com/civyk-official/civyk-winwright) | Windows automation MCP server — 110 tools for desktop, browser & system automation. Self-healing selectors, script recording, zero-dependency binary. |
-| [**RepoIx**](https://github.com/civyk-official/civyk-repoix) | Semantic code intelligence via MCP — 42 tools, sub-2ms symbol search, AI context cache, 100% offline. *"Turn codebases into conversations."* |
-| [**Hatch**](https://github.com/civyk-official/civyk-hatch) | AI-powered spec-driven development CLI — constitution, spec, plan, tasks, implement. Supports 12+ AI agents. Reverse engineering & modernization. |
+| [**WinWright**](https://github.com/civyk-official/civyk-winwright) | Windows automation server for MCP. ~59 consolidated tools for desktop (WPF, WinForms, Win32), browser (Chrome/Edge via CDP), and system management. Describe tests in plain English — the AI agent does the rest. Scripts replay deterministically without AI/LLM costs. Self-healing selectors auto-repair when UI changes. |
+| [**RepoIx**](https://github.com/civyk-official/civyk-repoix) | Semantic code intelligence for AI coding agents via MCP. 14 consolidated tools — symbol search with sub-2ms latency, AI context cache that persists understanding across sessions (80-90% token savings), conversation history, and token-budgeted context packs. 100% offline, no cloud, no telemetry. |
+| [**Hatch**](https://github.com/civyk-official/civyk-hatch) | AI-powered spec-driven development CLI. Structures AI-assisted software building: constitution, spec, plan, tasks, implement — with auto-resume after context limits. Includes reverse engineering for legacy modernization, DeepWiki documentation generation, and corporate guidelines extraction. Supports 12+ AI agents. |
 
 ---
 
@@ -100,10 +100,18 @@ BSc Cybersecurity (Hons)       NUS CTO Programme
 <td align="center"><b>ECIH</b><br/><sub>Incident Handler</sub></td>
 <td align="center"><b>AZ-900</b><br/><sub>Azure Fundamentals</sub></td>
 <td align="center"><b>MCTS</b><br/><sub>Microsoft Certified</sub></td>
-<td align="center"><b>NUS CTO</b><br/><sub>Advanced Computing</sub></td>
-<td align="center"><b>BSc (Hons)</b><br/><sub>Cybersecurity & Networks</sub></td>
+<td align="center"><b>EA Practitioner</b><br/><sub>NUS Certified</sub></td>
+<td align="center"><b>MCP</b><br/><sub>Microsoft Certified Professional</sub></td>
 </tr>
 </table>
+
+## Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| **CTO Programme** (Advanced Computing for Executives) | National University of Singapore | 2024 |
+| **BSc (Hons) Cybersecurity & Networks** | Teesside University, UK | 2021 |
+| **Higher Diploma** (Ethical Hacking & Forensic Investigations) | MDIS Singapore | 2020 |
 
 ---
 
@@ -124,10 +132,11 @@ BSc Cybersecurity (Hons)       NUS CTO Programme
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=veerabhadra-ponna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerabhadra-ponna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=veerabhadra-ponna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=veerabhadra-ponna&theme=tokyonight&hide_border=true" />
+
+> *Note: Most repositories are private. Primary languages are C#, Python, and JavaScript/React — see Tech Stack above for the full picture.*
 
 </div>
 
