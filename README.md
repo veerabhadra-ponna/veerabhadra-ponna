@@ -2,33 +2,35 @@
 
 # Hey, I'm Veera
 
-### VP & Principal Architect | 22+ Years Building Trading Platforms & Enterprise Systems
+### Vice President at Citi | 22+ Years Building Trading Platforms & Enterprise Systems
 
-*By day I architect FX derivatives platforms at a global bank.*
+*By day I architect FX derivatives platforms at Citi.*
 *By night I build open-source AI developer tools under [Civyk](https://github.com/civyk-official).*
 
 [![Website](https://img.shields.io/badge/cv.mr--ponna.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.mr-ponna.com)
 [![Blog](https://img.shields.io/badge/mr--ponna.com-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://mr-ponna.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veera-ponna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrponna)
 
 </div>
 
 ---
 
 ```
-VP, FXLM Derivatives          Singapore
-Enterprise Architect           TOGAF 9.2 Certified
-BSc Cybersecurity (Hons)       NUS CTO Programme
-22+ years                      3,100+ contributions/year
+VP, FXLM Derivatives           Singapore
+Enterprise Architect            TOGAF 9.2 Certified
+NUS CTO Programme (2024)        BSc Cybersecurity (Hons)
+22+ years                       3,100+ contributions/year
 ```
 
 ---
 
 ## What I Do
 
-**At work** — I lead architecture and delivery for FX Options eTrading platforms (VOLT, Velocity Options), designing high-throughput systems with FIX protocol integrations, real-time market data, and automated pricing engines. Previously held architecture and engineering leadership roles at Schroders, Barclays Capital, and Ayondo/TradeHero.
+**At Citi** — Hands-on architect for FX Options eTrading platforms (VOLT, Velocity Options). I design system architecture for new strategic initiatives, build FIX protocol integrations and real-time market data pipelines, and still write code daily. I also run AI workshops to help engineering teams adopt AI coding agents effectively and responsibly.
 
-**After hours** — I build and maintain open-source developer tools under the **[Civyk](https://github.com/civyk-official)** brand:
+**Previously** — Engineering/Delivery Lead at Schroders (APAC cloud migration, Front Office Data & Reporting), Technical Lead (AVP) at Barclays Capital (Legal Technology), Sr. Full Stack Engineer at Ayondo/TradeHero (real-time trading platforms).
+
+**Open source** — I build and maintain developer tools under the **[Civyk](https://github.com/civyk-official)** brand:
 
 | Project | Description |
 |---|---|
