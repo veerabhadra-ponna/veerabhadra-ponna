@@ -1,83 +1,126 @@
 <div align="center">
 
-# Hey there, I'm Veera 👋
+# Hey, I'm Veera
 
-### Technical Leader · Enterprise Architect · Builder of Things
+### VP & Principal Architect | 22+ Years Building Trading Platforms & Enterprise Systems
+
+*By day I architect FX derivatives platforms at a global bank.*
+*By night I build open-source AI developer tools under [Civyk](https://github.com/civyk-official).*
 
 [![Website](https://img.shields.io/badge/cv.mr--ponna.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.mr-ponna.com)
+[![Blog](https://img.shields.io/badge/mr--ponna.com-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://mr-ponna.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veera-ponna)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/veerabhadra-ponna)
 
 </div>
 
 ---
 
-```text
-🏢  CTO / Head of Tech        🌏  Singapore
-🎯  Enterprise Architecture    🛠️  Building Civyk
-🎓  NUS CTO Programme          ☕  Fueled by curiosity & coffee
+```
+VP, FXLM Derivatives          Singapore
+Enterprise Architect           TOGAF 9.2 Certified
+BSc Cybersecurity (Hons)       NUS CTO Programme
+22+ years                      3,100+ contributions/year
 ```
 
 ---
 
-## 🚀 What I'm Building
+## What I Do
 
-**[Civyk](https://github.com/veerabhadra-ponna)** — A suite of AI-powered developer tools:
+**At work** — I lead architecture and delivery for FX Options eTrading platforms (VOLT, Velocity Options), designing high-throughput systems with FIX protocol integrations, real-time market data, and automated pricing engines. Previously held architecture and engineering leadership roles at Schroders, Barclays Capital, and Ayondo/TradeHero.
 
-| Project | What it does |
+**After hours** — I build and maintain open-source developer tools under the **Civyk** brand:
+
+| Project | Description |
 |---|---|
-| **RepoIx** | Codebase intelligence — *"Turn codebases into conversations"* |
-| **WinWright** | Playwright-style automation for Windows desktop apps |
-| **Hatch** | Smart project scaffolding & bootstrapping |
-| **LinkOS** | Autonomous AI Chief-of-Staff for LinkedIn |
+| [**WinWright**](https://github.com/civyk-official/civyk-winwright) | Windows automation MCP server — 110 tools for desktop, browser & system automation. Self-healing selectors, script recording, zero-dependency binary. |
+| [**RepoIx**](https://github.com/civyk-official/civyk-repoix) | Semantic code intelligence via MCP — 42 tools, sub-2ms symbol search, AI context cache, 100% offline. *"Turn codebases into conversations."* |
+| [**Hatch**](https://github.com/civyk-official/civyk-hatch) | AI-powered spec-driven development CLI — constitution, spec, plan, tasks, implement. Supports 12+ AI agents. Reverse engineering & modernization. |
 
 ---
 
-## 🧠 Tech I Work With
+## Tech Stack
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=flat-square&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Cloud & Infra**
+**Platforms & Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Cloud, Data & Middleware**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Solace](https://img.shields.io/badge/Solace-00C895?style=flat-square&logoColor=white)
 
-**Frameworks & Tools**
+**AI & Protocols**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000?style=flat-square&logoColor=white)
+![FIX Protocol](https://img.shields.io/badge/FIX_Protocol-003366?style=flat-square&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <table>
 <tr>
-<td align="center"><img width="40" src="https://img.icons8.com/color/48/certificate.png"/><br/><b>TOGAF 9.2</b><br/><sub>Enterprise Architecture</sub></td>
-<td align="center"><img width="40" src="https://img.icons8.com/fluency/48/azure-1.png"/><br/><b>Azure AZ-204</b><br/><sub>Developer Associate</sub></td>
-<td align="center"><img width="40" src="https://img.icons8.com/color/48/cyber-security.png"/><br/><b>CEH</b><br/><sub>Certified Ethical Hacker</sub></td>
-<td align="center"><img width="40" src="https://img.icons8.com/color/48/graduation-cap.png"/><br/><b>NUS CTO Programme</b><br/><sub>National University of Singapore</sub></td>
+<td align="center"><b>TOGAF 9.2</b><br/><sub>Enterprise Architecture</sub></td>
+<td align="center"><b>Azure AZ-204</b><br/><sub>Developer Associate</sub></td>
+<td align="center"><b>CEH</b><br/><sub>Ethical Hacker</sub></td>
+<td align="center"><b>CHFI</b><br/><sub>Forensic Investigator</sub></td>
+<td align="center"><b>SAFe 4</b><br/><sub>Certified Practitioner</sub></td>
+</tr>
+<tr>
+<td align="center"><b>ECIH</b><br/><sub>Incident Handler</sub></td>
+<td align="center"><b>AZ-900</b><br/><sub>Azure Fundamentals</sub></td>
+<td align="center"><b>MCTS</b><br/><sub>Microsoft Certified</sub></td>
+<td align="center"><b>NUS CTO</b><br/><sub>Advanced Computing</sub></td>
+<td align="center"><b>BSc (Hons)</b><br/><sub>Cybersecurity & Networks</sub></td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## Career Path
+
+```
+2023–present  Citibank, Singapore          VP — FXLM Derivatives (FX Options eTrading)
+2017–2022     Schroders, Singapore         Engineering Lead — Front Office Data & Reporting
+2016–2017     Ayondo/TradeHero, Singapore  Sr. Full Stack Product Engineer
+2010–2016     Barclays Capital, Singapore  Technical Lead (AVP) — Legal Technology
+2007–2010     Semantic Space, India        Associate Technical Lead
+2003–2006     Elixir Care Softech, India   Senior Software Engineer
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -90,20 +133,10 @@
 
 ---
 
-## 💡 Philosophy
+<div align="center">
 
 > *"The best architecture is the one that gets out of the way and lets the team ship."*
 
-I believe in **building tools that multiply human capability** — not replace it. Every line of code should earn its place. Ship fast, learn faster, automate the boring stuff.
-
----
-
-<div align="center">
-
-**👀 Visitors**
-
 ![Visitors](https://komarev.com/ghpvc/?username=veerabhadra-ponna&color=blueviolet&style=flat-square)
-
-*⭐ If any of my work interests you, let's connect!*
 
 </div>
